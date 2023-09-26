@@ -55,6 +55,6 @@ Integrate the chatbot with a database for enhanced data management.
 Deploy the chatbot on a cloud platform for scalability and accessibility.
 
 Author
-Tanuja Kumari
+Tanuja Kumari,
 Email: tanujasangwan@gmail.com
 
