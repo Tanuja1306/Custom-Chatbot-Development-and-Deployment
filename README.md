@@ -54,11 +54,7 @@ Implement additional features, such as user authentication or error handling.
 Integrate the chatbot with a database for enhanced data management.
 Deploy the chatbot on a cloud platform for scalability and accessibility.
 
-Contact
+Author
 Tanuja Kumari
-
 Email: tanujasangwan@gmail.com
-GitHub: Tanuja1306
-
-Feel free to reach out with any questions or suggestions.
 
