@@ -17,8 +17,6 @@ def scrape_courses(url):
 
 # Function to generate a personalized course recommendation
 def generate_personalized_recommendation(user_profile, courses):
-    # Replace this logic with your own recommendation algorithm
-    # For now, let's just return a random course
     import random
     return random.choice(courses)
 
