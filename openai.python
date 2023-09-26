@@ -1,0 +1,31 @@
+import openai
+
+# Set your OpenAI API key here
+api_key = 'your_api_key'
+
+# Initialize the OpenAI API client
+openai.api_key = api_key
+
+# Define a function to generate chatbot responses
+def generate_response(user_input):
+    response = openai.Completion.create(
+        engine="text-davinci-002",
+        prompt=f"User: {user_input}\nChatbot:",
+        max_tokens=50,  # Adjust the token limit as needed
+        stop=None,      # Specify a stop sequence if necessary
+        temperature=0.7,  # Adjust the temperature for response randomness
+    )
+    return response.choices[0].text.strip()
+
+# Chatbot interaction loop
+print("Chatbot: Hi, I'm your course recommendation chatbot.")
+while True:
+    user_input = input("You: ").strip().lower()
+    
+    if user_input == "exit":
+        print("Chatbot: Goodbye!")
+        break
+    
+    # Generate a chatbot response
+    chatbot_response = generate_response(user_input)
+    print("Chatbot:", chatbot_response)
