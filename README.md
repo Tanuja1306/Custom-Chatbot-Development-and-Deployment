@@ -56,7 +56,9 @@ Deploy the chatbot on a cloud platform for scalability and accessibility.
 
 Contact
 Tanuja Kumari
+
 Email: tanujasangwan@gmail.com
 GitHub: Tanuja1306
+
 Feel free to reach out with any questions or suggestions.
 
