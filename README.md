@@ -1,6 +1,8 @@
 # Custom-Chatbot-Development-and-Deployment
  Custom chatbot for suggesting technical courses to students
 
+ PPT Link: https://docs.google.com/presentation/d/1zT656JpwLx7T9dQ8aJTuiL_1AjfaKaaI/edit?usp=sharing&ouid=101603625207851214579&rtpof=true&sd=true
+
 # Course Recommendation Chatbot
 
 ## Overview
