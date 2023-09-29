@@ -3,6 +3,8 @@
 
  PPT Link: https://docs.google.com/presentation/d/1zT656JpwLx7T9dQ8aJTuiL_1AjfaKaaI/edit?usp=sharing&ouid=101603625207851214579&rtpof=true&sd=true
 
+Google Colab Link: https://colab.research.google.com/drive/1bulQusSvxlKhidrCX6pqCzX0xdotcBvg?usp=sharing
+
 # Course Recommendation Chatbot
 
 ## Overview
