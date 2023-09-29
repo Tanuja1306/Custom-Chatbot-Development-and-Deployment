@@ -1,0 +1,9 @@
+User Input: "Bitte empfehlen Sie einen Python-Kurs für fortgeschrittene Studenten."
+Expected Chatbot Response:
+
+Titel: PYTHON PROGRAMMING-ADVANCE
+Übersicht: Wenn Sie bereits die Grundlagen von Python kennen, ist diese Schulung der nächste Schritt in Ihrem Python-Lernweg, um ein Python-Programmierer zu werden. <br><br>
+
+Python ist eine interpretierte, objektorientierte, hochrangige Programmiersprache mit dynamischer Semantik. Ihre hochrangigen integrierten Datenstrukturen in Verbindung mit dynamischer Typisierung und dynamischer Bindung machen sie sehr attraktiv für die schnelle Anwendungsentwicklung.<br><br>
+
+Ein Python-Experte zu werden, dauert seine Zeit, aber im Laufe der Zeit werden Sie diese wunderbare Programmiersprache
