@@ -1,0 +1,19 @@
+Test Case 2 (Spanish):
+
+User Input: "Por favor, recomiéndame un curso de Python para estudiantes avanzados."
+Expected Chatbot Response:
+Título: PYTHON PROGRAMMING-ADVANCE
+Descripción: Si ya conoces los conceptos básicos de Python, este entrenamiento es el siguiente paso en tu camino de aprendizaje de Python para convertirte en un programador de Python. <br><br>
+
+Python es un lenguaje de programación interpretado, orientado a objetos, de alto nivel, con semántica dinámica. Sus estructuras de datos integradas de alto nivel, combinadas con la tipificación dinámica y el enlace dinámico, lo hacen muy atractivo para el Desarrollo de Aplicaciones Rápidas.<br><br>
+
+Convertirse en un experto en Python lleva tiempo, pero con el tiempo dominarás este hermoso lenguaje de programación. ¡Vale la pena!<br><br>
+
+CARACTERÍSTICAS PRINCIPALES DEL PROGRAMA:<br>
+• Sesiones interactivas en vivo uno a uno con un instructor verificado<br>
+• Currículo personalizado de acuerdo con el progreso de tu hijo<br>
+• Asignaciones simples e interesantes para un aprendizaje fácil<br>
+• Informe de seguimiento de clases a diario.<br>
+• Enfoque en el aprendizaje con diversión<br>
+• Acceso completo a los materiales de estudio y diapositivas de PowerPoint. <br><
+Curso recomendado esperado: "PYTHON PROGRAMMING-ADVANCE"
