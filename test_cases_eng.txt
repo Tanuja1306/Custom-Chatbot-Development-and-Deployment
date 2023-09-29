@@ -1,0 +1,21 @@
+Test Case 1 (English):
+
+User Input: "Please recommend a Python course for advance students."
+Expected Chatbot Response:
+Title: PYTHON PROGRAMMING-ADVANCE
+Overview: If you already know Python basics, then this training is the next step in your Python learning path to become a Python programmer. <br><br>
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development.<br><br>
+
+Becoming a Python expert takes time, but over time you’ll master this beautiful programming language. It’s worth it!<br><br>
+
+MAIN FEATURES OF THE PROGRAM:<br>
+• One on One Live Interactive Sessions with verified Instructor<br>
+• Customized Curriculum according to your kid’s progress<br>
+• Simple and interesting assignments for easy learning<br>
+• Class Tracking Report on a daily basis.<br>
+• Strong focus on Learning with Fun<br>
+• Complete access to the study materials and Power Point Slides. <br><
+
+Expected Recommended Course: "PYTHON PROGRAMMING-ADVANCE"
+
