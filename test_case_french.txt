@@ -1,19 +1,20 @@
 User Input: "Veuillez recommander un cours Python pour les étudiants avancés."
 Expected Chatbot Response:
 
-Titre : PYTHON PROGRAMMING-ADVANCE
-Aperçu : Si vous connaissez déjà les bases de Python, cette formation est l'étape suivante dans votre parcours d'apprentissage de Python pour devenir un programmeur Python. <br><br>
+Title: PYTHON PROGRAMMING-ADVANCE
+Overview: If you already know Python basics, then this training is the next step in your Python learning path to become a Python programmer. <br><br>
 
-Python est un langage de programmation interprété, orienté objet, de haut niveau avec une sémantique dynamique. Ses structures de données intégrées de haut niveau, associées à une typage dynamique et une liaison dynamique, le rendent très attractif pour le développement d'applications rapides.<br><br>
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development.<br><br>
 
-Devenir un expert en Python prend du temps, mais avec le temps, vous maîtriserez ce magnifique langage de programmation. Cela en vaut la peine !<br><br>
+Becoming a Python expert takes time, but over time you’ll master this beautiful programming language. It’s worth it!<br><br>
 
-CARACTÉRISTIQUES PRINCIPALES DU PROGRAMME :<br>
-• Sessions interactives en direct en tête-à-tête avec un instructeur vérifié<br>
-• Programme sur mesure en fonction de la progression de votre enfant<br>
-• Des devoirs simples et intéressants pour un apprentissage facile<br>
-• Rapport de suivi de classe au quotidien.<br>
-• Accent sur l'apprentissage ludique<br>
-• Accès complet aux supports de cours et aux diapositives PowerPoint. <br><
-Cours recommandé attendu : "PYTHON PROGRAMMING-ADVANCE"
+MAIN FEATURES OF THE PROGRAM:<br>
+• One on One Live Interactive Sessions with verified Instructor<br>
+• Customized Curriculum according to your kid’s progress<br>
+• Simple and interesting assignments for easy learning<br>
+• Class Tracking Report on a daily basis.<br>
+• Strong focus on Learning with Fun<br>
+• Complete access to the study materials and Power Point Slides. <br><
+
+Expected Recommended Course: "PYTHON PROGRAMMING-ADVANCE"
 
