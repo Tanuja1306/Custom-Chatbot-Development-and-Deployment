@@ -1,5 +1,4 @@
 # Custom-Chatbot-Development-and-Deployment
- Custom chatbot for suggesting technical courses to students
 
 Google Colab Link: https://colab.research.google.com/drive/1bulQusSvxlKhidrCX6pqCzX0xdotcBvg?usp=sharing
 
